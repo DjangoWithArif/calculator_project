@@ -14,9 +14,11 @@ This is a simple Python CLI Calculator that allows users to perform basic arithm
 
 ```bash
 python calculator_app.py
+```
 
 
-#### NOTE: If you want to use OOP Calculator please this command
+## NOTE: If you want to use OOP Calculator please this command
 
 ```bash
 python cal_oop_format.py
+```
