@@ -17,8 +17,8 @@ python calculator_app.py
 ```
 
 
-## NOTE: If you want to use OOP Calculator please this command
+#### NOTE: To use the OOP Calculator, run:
 
 ```bash
-python cal_oop_format.py
+python cal_oop.py
 ```
